@@ -1,5 +1,5 @@
 Summary:	Live365 plugin for streamtuner
-Summary(pl):	Wtyczka Live365 dla streamtunera
+Summary(pl.UTF-8):   Wtyczka Live365 dla streamtunera
 Name:		streamtuner-live365
 Version:	0.3.4
 Release:	1
@@ -16,7 +16,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Live365 plugin for streamtuner.
 
-%description -l pl
+%description -l pl.UTF-8
 Wtyczka Live365 dla streamtunera.
 
 %prep
